@@ -1,3 +1,5 @@
+# Image to Pencil Sketch
+
 In this task we take an image and convert it to a pencil sketch using the basics of OpenCV. The process is done by the following steps:
 
 1. Read the image in RGB
